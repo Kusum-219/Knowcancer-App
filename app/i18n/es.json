@@ -1,0 +1,26 @@
+{
+  "dashboardScreen": {
+    "recognizeOD": "Reconocer OD",
+    "startRescue": "Comience el rescate",
+    "reportReversal": "Informe de reversión",
+    "findTreatment": "Encontrar tratamiento",
+    "findNaloxone": "Encuentra Naloxone",
+    "resources": "Recursos",
+    "inviteOthers": "Invita a otros",
+    "moreOptions": "Mas opciones"
+  },
+  "moreOptionsScreen": {
+    "accountSettings": "Configuración de la Cuenta",
+    "login": "Iniciar Sesión",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "profile": "Perfil",
+    "logout": "Cerrar Sesión",
+    "language": "Idioma",
+    "additionalItems": "Artículos Adicionales",
+    "about": "Acerca de esta Aplicación",
+    "terms": "Condiciones del Servicio",
+    "privacy": "Privacy Policy",
+    "technical": "Soporte Técnico"
+  }
+}

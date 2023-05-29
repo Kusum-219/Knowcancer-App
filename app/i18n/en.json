@@ -1,0 +1,26 @@
+{
+  "dashboardScreen": {
+    "recognizeOD": "Recognize OD",
+    "startRescue": "Start Rescue",
+    "reportReversal": "Report Reversal",
+    "findTreatment": "Find Treatment",
+    "findNaloxone": "Find Naloxone",
+    "resources": "Resources",
+    "inviteOthers": "Invite Others",
+    "moreOptions": "More Options"
+  },
+  "moreOptionsScreen": {
+    "accountSettings": "Account Settings",
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "profile": "Profile",
+    "logout": "Logout",
+    "language": "Language",
+    "additionalItems": "Additional Items",
+    "about": "About this App",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "technical": "Technical Support"
+  }
+}
